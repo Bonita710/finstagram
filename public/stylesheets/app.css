@@ -1,12 +1,27 @@
+body{
+    background-color: rgb(188, 207, 243);
+}
 header{
+    background-color: rgb(215, 247, 248);
     color: blueviolet;
+    height:100px;
+    width: 1500px;
+    align-content: center;
+    display:flex;
 }
 
 h2{
-    color:chartreuse;
+    color:rgb(4, 7, 1);
 }
 .shark-pic{
     border-radius: 10px;
     border-color:black;
 
+}
+.actions{
+    font-weight: bold;
+}
+
+.user-pic{
+    border-radius: 10px;
 }
