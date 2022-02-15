@@ -3,10 +3,10 @@ body{
 }
 header{
     background-color: rgb(215, 247, 248);
-    color: blueviolet;
+    color: rgb(14, 8, 20);
     height:100px;
-    width: 1500px;
-    align-content: center;
+    width: 900px;
+    align-content:center;
     display:flex;
 }
 
